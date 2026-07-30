@@ -36,10 +36,10 @@ The verification environment consists of:
 
 ## Project Structure
 
-RTL/
+RTL:
 - digital_clock.sv
 
-Verification/
+Verification:
 - interface.sv
 - transaction.sv
 - generator.sv
